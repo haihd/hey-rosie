@@ -1,2 +1,1 @@
-# hey-rosie
-a virtual cat assistant
+# Hey Rosie - A virtual cat assistant
